@@ -1,1 +1,12 @@
-
+body{
+    background-color: aliceblue;
+}
+header{
+    background-color: cyan;
+}
+main{
+    background-color: deepskyblue;
+}
+section{
+    background-color: aquamarine;
+}
