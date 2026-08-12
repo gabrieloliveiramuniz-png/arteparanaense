@@ -1,12 +1,12 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(236, 238, 240);
 }
 header{
-    background-color: cyan;
+    background-color: rgb(244, 247, 247);
 }
 main{
-    background-color: deepskyblue;
+    background-color: rgb(246, 249, 250);
 }
 section{
-    background-color: aquamarine;
+    background-color: rgb(235, 241, 239);
 }
